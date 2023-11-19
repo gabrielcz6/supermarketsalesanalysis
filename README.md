@@ -9,12 +9,13 @@ Este proyecto ofrece una solución integral para el análisis y la visualizació
 - Visualización de datos para facilitar la comprensión de patrones complejos.
 - Identificación de productos líderes en ganancias.
 
-## Funciones Implementadas
+## Funciones Implementadas en cada pregunta
 
-- `pregunta_1()`: Procesa y visualiza las tendencias de ventas anuales.
-- `pregunta_2()`: Analiza las ventas por categorías de productos.
-- `pregunta_3()`: Genera gráficos de ventas por región.
-- `pregunta_4()`: Examina la distribución de modos de envío entre diferentes segmentos de clientes.
+- `pregunta_1`: Procesa y visualiza las tendencias de ventas anuales.
+- `pregunta_2`: Analiza las ventas por categorías de productos.
+- `pregunta_3`: Genera gráficos de ventas por región.
+- `pregunta_4`: Examina la distribución de modos de envío entre diferentes segmentos de clientes.
+- `pregunta_5`: Podemos visualizar las ventas por trimestre en un lugar determinado.
 
 ## Tecnologías Utilizadas
 
