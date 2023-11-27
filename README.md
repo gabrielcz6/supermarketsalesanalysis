@@ -23,8 +23,8 @@ Este proyecto ofrece un análisis exhaustivo y detallado de los datos de ventas 
 
 ## Preguntas adicionales 
 6.  Calcula el margen de beneficio por producto y encuentra los 10 productos con mayor margen.
-7.  Realiza un análisis geográfico detallado de las ventas.
-8.  Compara las tendencias de compra entre clientes B2B y B2C.
+7.  Realiza un análisis geográfico de las ganancias.
+
 
 ## Tecnologías Utilizadas
 
