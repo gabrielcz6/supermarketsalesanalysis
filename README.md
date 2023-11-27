@@ -10,8 +10,7 @@ Este proyecto ofrece un análisis exhaustivo y detallado de los datos de ventas 
 - **Visualización Avanzada:** Uso de gráficos y visualizaciones para presentar los datos de manera intuitiva.
 - **Productos Líderes:** Identificación y análisis de los productos con mayores ganancias.
 - **Margen de Beneficio por Producto:** Cálculo y análisis de los productos con mayor margen de beneficio.
-- **Análisis Geográfico Detallado:** Estudio detallado de las ventas por estados y ciudades, identificando regiones clave.
-- **Comparación de Tendencias de Compra B2B y B2C:** Análisis comparativo de las tendencias de compra entre los clientes B2B y B2C.
+- **Análisis Geográfico de Ganancias:** Estudio detallado de las ventas por estados y ciudades, identificando regiones clave.
 
 ## Funciones Implementadas
 
